@@ -1,0 +1,5 @@
+name: SkinFix
+main: Dqfault\SkinFix\Loader
+version: 1.0.0
+api: ["3.11"]
+authors: [Dqfault, credit to XenialDan and DenielWorld]
